@@ -5,7 +5,7 @@ This repository contains solutions to a variety of LeetCode problems. The soluti
 
 - **Code**: The actual solution code in the specified programming language.
 - **README.md**: A description of the problem and the approach taken to solve it.
-- **Test Cases**: Sample input and output to test the solution.
+
 
 ## Languages Used
 <br>
