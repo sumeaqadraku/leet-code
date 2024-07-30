@@ -8,8 +8,6 @@ This repository contains solutions to a variety of LeetCode problems. The soluti
 - **Test Cases**: Sample input and output to test the solution.
 
 ## Languages Used
-
+<br>
 - Python
-- Java
-- C++
-- [Add or remove languages as needed]
+
